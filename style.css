@@ -1,3 +1,11 @@
+@media(max-width:700px){
+img{
+  display: none;
+}
+body{
+  font-size: 15px;
+}
+}
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
